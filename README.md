@@ -86,3 +86,13 @@ Calculating... 2 hooks apply
 Operation completed.
 ```
 
+### Upgrading packages
+
+```bash
+$ jspkg upgrade
+```
+
+{% hint style="danger" %}
+documentation todo: add output
+{% endhint %}
+
