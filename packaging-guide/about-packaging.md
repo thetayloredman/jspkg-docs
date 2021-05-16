@@ -33,3 +33,7 @@ hello-world.jsp
 * `contents.tar.gz`: data to write to the filesystem
 * `metadata`: a jspkg [metadata format](metadata-format.md) document with package data
 
+## Let's get started!
+
+Head on over to ["Creating a Hello World Package"](creating-a-hello-world-package/) to get started.
+
